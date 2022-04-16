@@ -1,0 +1,12 @@
+# Virtual env
+.venv/
+
+# Cache
+*.pyc
+__pycache__/
+
+# Testing
+*.coverage
+
+# Files
+*.pdf
